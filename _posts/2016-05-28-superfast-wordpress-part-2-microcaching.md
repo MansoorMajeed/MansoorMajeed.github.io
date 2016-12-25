@@ -109,7 +109,7 @@ handle a couple hundred users at the same time ( or even a 1000 concurrent users
 ### Load test result
 Now, this is the result of the load test I did using [Loader.io](http://loader.io) 
 
-![Nginx Load test]({{ site.url }}/blog/assets/nginx/nginx-3000.png)
+![Nginx Load test]({{ site.url }}/assets/nginx/nginx-3000.png)
 
 Did you notice the number "176990" that's the number of successful responses over 1 minute.
 Also, 3 gigs of traffic sent in a minute. And, not even one failed request. This is pretty good, isn't?
